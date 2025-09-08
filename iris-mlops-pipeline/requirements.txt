@@ -1,0 +1,14 @@
+scikit-learn
+pandas
+dvc
+mlflow
+fastapi
+uvicorn[standard]
+pydantic
+# CI/CD
+pytest
+flake8
+requests
+httpx
+pytest-mock
+prometheus-fastapi-instrumentator
